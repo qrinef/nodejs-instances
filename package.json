@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-instances",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node ./src/app"
+  },
+  "author": "qrinef",
+  "license": "MIT",
+  "dependencies": {
+    "ioredis": "^4.17.3"
+  }
+}
